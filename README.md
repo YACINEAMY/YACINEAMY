@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Yacine Ahmed-Messaoud
+# Hi there 👋, I'm Yacine AHMED MESSAOUD
 
 I'm a first-year AI engineering student from Algeria 🇩🇿, exploring the world of programming, AI, and cybersecurity.  
 
